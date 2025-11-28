@@ -1,0 +1,6 @@
+# Extract from pyproject.toml dependencies
+fastapi
+uvicorn
+playwright
+python-dotenv
+# Add any other dependencies listed in pyproject.toml
